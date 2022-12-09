@@ -1,1 +1,1 @@
-Analysis of dataset for the final exam on module "Data Analytics"
+Analysis of dataset New York taxi trip for yellow taxi.
